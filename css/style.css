@@ -1,8 +1,8 @@
 body {
     background: linear-gradient(
-        200deg,
-        rgba(179, 2, 2, 0.7),
-        rgba(0, 54, 134, 0.639)
+        310deg,
+        rgba(179, 2, 2, 0.5),
+        rgba(0, 54, 134, 0.7)
       ),
       url("../images/abstract-polygon-background-3.jpg");
     background-position: left center;
