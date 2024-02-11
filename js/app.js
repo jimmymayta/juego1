@@ -106,7 +106,7 @@ function textoaleatorio() {
 }
 
 function mostrartexto() {
-  texto.textContent = verlibro.toLowerCase();
+  texto.textContent = verlibro.toLowerCase().slice(0,-1);
 }
 
 function mostrarrespuesta() {
